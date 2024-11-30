@@ -15,7 +15,7 @@ This repository hosts my single-page HTML CV showcasing my career history, educa
 1. Clone this repository or download the `index.html` file.
 2. Open the file in any web browser to view the CV.
 3. ## View the CV Online
-You can view the CV online here: [Alpha's CV](https://your-github-username.github.io/alpha-cv)
+You can view the CV online here: [Alpha's CV](file:///C:/Users/User/Desktop/html%20introduction/INTRO.html)
 
 ## How to Use Locally
 1. Clone this repository:
